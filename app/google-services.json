@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445234438847",
+    "project_id": "isletme-124ba",
+    "storage_bucket": "isletme-124ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445234438847:android:a8b928f5a20cbb4eca5c0a",
+        "android_client_info": {
+          "package_name": "com.example.ime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtfwXwtz0oHdLExXpwoQd0d9RbKEa0nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445234438847:android:30747d3ce60c6df3ca5c0a",
+        "android_client_info": {
+          "package_name": "com.unigorn.ime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABtfwXwtz0oHdLExXpwoQd0d9RbKEa0nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
