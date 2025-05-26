@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS)
+    repositories {
+        google()
+        mavenCentral()
+        maven {
+            url 'https://jitpack.io'
+            // Aşağıdaki ayarı ekleyin
+            content {
+                includeGroup("com.github.ageron")
+            }
+        }
+    }
+}
+rootProject.name = "IME"
+include ':app'
